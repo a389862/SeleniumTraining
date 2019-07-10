@@ -6,6 +6,7 @@
   <test name="Test">
     <classes>
       <class name="testng.CreateLead"/>
+      <class name="testng.DeleteLead"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
